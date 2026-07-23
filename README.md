@@ -205,10 +205,15 @@ The microservices communicate using REST APIs through Spring's RestTemplate, all
 
 Communication Flow
 Sensor Service → Transformer Service
+
 Validates the transformer using its serial number before storing sensor readings.
+
 Alert Service → Sensor Service
+
 Retrieves sensor information required for generating alerts.
+
 Maintenance Service → Transformer Service
+
 Retrieves transformer details before creating and managing maintenance requests.
 
 # Alert Generation Rules:
@@ -230,7 +235,8 @@ Smart-Grid-Monitoring-System
 ├── Sensor Service
 ├── Alert Service
 ├── Maintenance Service
-│
+│__ GateWay
+|
 ├── README.md
 └── .gitignore
 ```
