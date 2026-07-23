@@ -278,22 +278,6 @@ Maintenance Completion
 
 Alert Resolution
 
-# Feature Implemented:
-
-REST APIs
-CRUD Operations
-Bean Validation
-Global Exception Handling
-DTO Pattern
-Layered Architecture
-Spring Data JPA
-MySQL Integration
-RestTemplate Communication
-API Gateway Routing
-Automatic Alert Generation
-Automatic Maintenance Scheduling
-Alert Resolution
-Postman Testing
 
 # Output(Testing):
 
