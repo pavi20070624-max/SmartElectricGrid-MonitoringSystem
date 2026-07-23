@@ -338,7 +338,7 @@ PAVITHRA S
 
 B.E. Computer Science and Engineering
 
-Spring Boot | Java | Microservices | Backend Development
+SpringBoot Backend Development
 
 
 
